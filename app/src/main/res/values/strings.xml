@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="TextView_Heading">Sejarah Komputer</string>
+    <string name="TextView_SubHeading">Munculnya Komputer Pertama</string>
+    <string name="TextView_Article">Deskripsi</string>
+</resources>
